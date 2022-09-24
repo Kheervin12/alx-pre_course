@@ -1,1 +1,1 @@
-git add up_to_date
+echo 'message' > up_to_date
